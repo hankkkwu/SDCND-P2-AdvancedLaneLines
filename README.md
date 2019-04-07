@@ -21,4 +21,4 @@ The result will look like below picture:
 * Project wirteup report in [Writeup_report]
 * Code in [Advanced_Lane_Finding]
 * Example output images in [output_images]
-* Output video in [project_video_result.mp4] 
+* Output video in [project_video_result.mp4](https://github.com/hankkkwu/SDCND-P2-AdvancedLaneLines/blob/master/project_video.mp4)
