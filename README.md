@@ -1,9 +1,9 @@
 ## Advanced Lane Finding
----
 
 Note: this is Udacity Nano Degree project, This project was forked from [Udacity](https://github.com/udacity/CarND-Advanced-Lane-Lines)
 
 ## Overview
+
 In this project, I did the following steps:
 1. Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 2. Apply a distortion correction to raw images.
@@ -18,6 +18,7 @@ The result will look like below picture:
 ![alt text](./output_images/result.jpg)
 
 ## Project
+
 * Project wirteup report in [Writeup_report](https://github.com/hankkkwu/SDCND-P2-AdvancedLaneLines/blob/master/Writeup_report.md)
 * Code in [Advanced_Lane_Finding](https://github.com/hankkkwu/SDCND-P2-AdvancedLaneLines/blob/master/Advanced_Lane_Finding.ipynb)
 * Example output images in [output_images](https://github.com/hankkkwu/SDCND-P2-AdvancedLaneLines/tree/master/output_images)
