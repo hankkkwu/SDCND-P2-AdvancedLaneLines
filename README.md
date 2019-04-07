@@ -18,7 +18,7 @@ The result will look like below picture:
 ![alt text](./output_images/result.jpg)
 
 ## Project
-* Project wirteup report in [Writeup_report]
-* Code in [Advanced_Lane_Finding]
-* Example output images in [output_images]
+* Project wirteup report in [Writeup_report](https://github.com/hankkkwu/SDCND-P2-AdvancedLaneLines/blob/master/Writeup_report.md)
+* Code in [Advanced_Lane_Finding](https://github.com/hankkkwu/SDCND-P2-AdvancedLaneLines/blob/master/Advanced_Lane_Finding.ipynb)
+* Example output images in [output_images](https://github.com/hankkkwu/SDCND-P2-AdvancedLaneLines/tree/master/output_images)
 * Output video in [project_video_result.mp4](https://github.com/hankkkwu/SDCND-P2-AdvancedLaneLines/blob/master/project_video.mp4)
