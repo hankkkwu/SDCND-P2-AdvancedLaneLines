@@ -14,7 +14,10 @@ In this project, I did the following steps:
 7. Warp the detected lane boundaries back onto the original image.
 8. Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
+
 Here is the result video:
+
+
 [![result video](http://img.youtube.com/vi/zq3I3OlnvSM/0.jpg)](https://www.youtube.com/watch?v=zq3I3OlnvSM "Advanced Lane Finding")
 
 
